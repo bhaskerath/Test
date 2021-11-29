@@ -1,2 +1,2 @@
-second commit merge con text
+second commit the importand. text
 new lined added for to understand how pull request works..
